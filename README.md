@@ -36,4 +36,3 @@ Input Image -> Preprocessing -> Features -> Learning Algorithms -> Label Assignm
 # PyTorch
 Email : i2dl@vc.in.tum.de
 
-
