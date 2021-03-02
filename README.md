@@ -26,3 +26,14 @@ Resultante Importante
 - Lecture 10: Popular CNN Architectures
 - Lecture 11: Recurrent Neural Networks
 - Lecture 12: Advanced Deep Learning Topics
+
+# Image Classification
+Input Image -> Preprocessing -> Features -> Learning Algorithms -> Label Assignment
+
+# Deep Learning
+![image](https://user-images.githubusercontent.com/42701412/109638335-f73c5280-7b5e-11eb-91b5-a7969562938a.png)
+
+# PyTorch
+Email : i2dl@vc.in.tum.de
+
+
